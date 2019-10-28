@@ -1,0 +1,11 @@
+C:\Users\Kamila\source\repos\ShortestPathApp\ShortestPathApp\bin\Debug\netcoreapp3.0\ShortestPathApp.exe
+C:\Users\Kamila\source\repos\ShortestPathApp\ShortestPathApp\bin\Debug\netcoreapp3.0\ShortestPathApp.deps.json
+C:\Users\Kamila\source\repos\ShortestPathApp\ShortestPathApp\bin\Debug\netcoreapp3.0\ShortestPathApp.runtimeconfig.json
+C:\Users\Kamila\source\repos\ShortestPathApp\ShortestPathApp\bin\Debug\netcoreapp3.0\ShortestPathApp.runtimeconfig.dev.json
+C:\Users\Kamila\source\repos\ShortestPathApp\ShortestPathApp\bin\Debug\netcoreapp3.0\ShortestPathApp.dll
+C:\Users\Kamila\source\repos\ShortestPathApp\ShortestPathApp\bin\Debug\netcoreapp3.0\ShortestPathApp.pdb
+C:\Users\Kamila\source\repos\ShortestPathApp\ShortestPathApp\obj\Debug\netcoreapp3.0\ShortestPathApp.csprojAssemblyReference.cache
+C:\Users\Kamila\source\repos\ShortestPathApp\ShortestPathApp\obj\Debug\netcoreapp3.0\ShortestPathApp.AssemblyInfoInputs.cache
+C:\Users\Kamila\source\repos\ShortestPathApp\ShortestPathApp\obj\Debug\netcoreapp3.0\ShortestPathApp.AssemblyInfo.cs
+C:\Users\Kamila\source\repos\ShortestPathApp\ShortestPathApp\obj\Debug\netcoreapp3.0\ShortestPathApp.dll
+C:\Users\Kamila\source\repos\ShortestPathApp\ShortestPathApp\obj\Debug\netcoreapp3.0\ShortestPathApp.pdb
