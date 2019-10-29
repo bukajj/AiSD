@@ -9,3 +9,14 @@ C:\Users\Kamila\source\repos\ShortestPathApp\ShortestPathApp\obj\Debug\netcoreap
 C:\Users\Kamila\source\repos\ShortestPathApp\ShortestPathApp\obj\Debug\netcoreapp3.0\ShortestPathApp.AssemblyInfo.cs
 C:\Users\Kamila\source\repos\ShortestPathApp\ShortestPathApp\obj\Debug\netcoreapp3.0\ShortestPathApp.dll
 C:\Users\Kamila\source\repos\ShortestPathApp\ShortestPathApp\obj\Debug\netcoreapp3.0\ShortestPathApp.pdb
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ShortestPathApp\ShortestPathApp\bin\Debug\netcoreapp3.0\ShortestPathApp.exe
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ShortestPathApp\ShortestPathApp\bin\Debug\netcoreapp3.0\ShortestPathApp.deps.json
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ShortestPathApp\ShortestPathApp\bin\Debug\netcoreapp3.0\ShortestPathApp.runtimeconfig.json
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ShortestPathApp\ShortestPathApp\bin\Debug\netcoreapp3.0\ShortestPathApp.runtimeconfig.dev.json
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ShortestPathApp\ShortestPathApp\bin\Debug\netcoreapp3.0\ShortestPathApp.dll
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ShortestPathApp\ShortestPathApp\bin\Debug\netcoreapp3.0\ShortestPathApp.pdb
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ShortestPathApp\ShortestPathApp\obj\Debug\netcoreapp3.0\ShortestPathApp.csprojAssemblyReference.cache
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ShortestPathApp\ShortestPathApp\obj\Debug\netcoreapp3.0\ShortestPathApp.AssemblyInfoInputs.cache
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ShortestPathApp\ShortestPathApp\obj\Debug\netcoreapp3.0\ShortestPathApp.AssemblyInfo.cs
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ShortestPathApp\ShortestPathApp\obj\Debug\netcoreapp3.0\ShortestPathApp.dll
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ShortestPathApp\ShortestPathApp\obj\Debug\netcoreapp3.0\ShortestPathApp.pdb

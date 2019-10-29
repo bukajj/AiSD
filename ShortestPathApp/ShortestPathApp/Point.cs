@@ -14,5 +14,16 @@ namespace ShortestPathApp
             this.x = x;
             this.y = y;
         }
+
+        public static int ArgValidator(int a)
+        {
+            int arg = a;
+            while (arg<0 && arg> 100000)
+            {
+                Console.WriteLine("Podaj wartość 0<=arg<=100000");
+                arg = int.Parse(Console.ReadLine());
+            }
+            return arg;
+        }
     }
 }

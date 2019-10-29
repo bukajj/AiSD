@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kamila\\source\\repos\\ShortestPathApp\\ShortestPathApp\\ShortestPathApp.csproj": {}
+    "C:\\Users\\jakub.jadwiszczak\\Documents\\GitHub\\AiSD\\ShortestPathApp\\ShortestPathApp\\ShortestPathApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kamila\\source\\repos\\ShortestPathApp\\ShortestPathApp\\ShortestPathApp.csproj": {
+    "C:\\Users\\jakub.jadwiszczak\\Documents\\GitHub\\AiSD\\ShortestPathApp\\ShortestPathApp\\ShortestPathApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kamila\\source\\repos\\ShortestPathApp\\ShortestPathApp\\ShortestPathApp.csproj",
+        "projectUniqueName": "C:\\Users\\jakub.jadwiszczak\\Documents\\GitHub\\AiSD\\ShortestPathApp\\ShortestPathApp\\ShortestPathApp.csproj",
         "projectName": "ShortestPathApp",
-        "projectPath": "C:\\Users\\Kamila\\source\\repos\\ShortestPathApp\\ShortestPathApp\\ShortestPathApp.csproj",
-        "packagesPath": "C:\\Users\\Kamila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kamila\\source\\repos\\ShortestPathApp\\ShortestPathApp\\obj\\",
+        "projectPath": "C:\\Users\\jakub.jadwiszczak\\Documents\\GitHub\\AiSD\\ShortestPathApp\\ShortestPathApp\\ShortestPathApp.csproj",
+        "packagesPath": "C:\\Users\\jakub.jadwiszczak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jakub.jadwiszczak\\Documents\\GitHub\\AiSD\\ShortestPathApp\\ShortestPathApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kamila\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jakub.jadwiszczak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
