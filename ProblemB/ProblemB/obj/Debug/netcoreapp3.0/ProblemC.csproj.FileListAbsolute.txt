@@ -1,0 +1,10 @@
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemB\ProblemB\bin\Debug\netcoreapp3.0\ProblemC.exe
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemB\ProblemB\bin\Debug\netcoreapp3.0\ProblemC.deps.json
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemB\ProblemB\bin\Debug\netcoreapp3.0\ProblemC.runtimeconfig.json
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemB\ProblemB\bin\Debug\netcoreapp3.0\ProblemC.runtimeconfig.dev.json
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemB\ProblemB\bin\Debug\netcoreapp3.0\ProblemC.dll
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemB\ProblemB\bin\Debug\netcoreapp3.0\ProblemC.pdb
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemB\ProblemB\obj\Debug\netcoreapp3.0\ProblemC.AssemblyInfoInputs.cache
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemB\ProblemB\obj\Debug\netcoreapp3.0\ProblemC.AssemblyInfo.cs
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemB\ProblemB\obj\Debug\netcoreapp3.0\ProblemC.dll
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemB\ProblemB\obj\Debug\netcoreapp3.0\ProblemC.pdb
