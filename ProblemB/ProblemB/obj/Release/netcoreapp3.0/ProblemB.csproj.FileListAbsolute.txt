@@ -1,0 +1,11 @@
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ProblemB\ProblemB\bin\Release\netcoreapp3.0\ProblemB.exe
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ProblemB\ProblemB\bin\Release\netcoreapp3.0\ProblemB.deps.json
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ProblemB\ProblemB\bin\Release\netcoreapp3.0\ProblemB.runtimeconfig.json
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ProblemB\ProblemB\bin\Release\netcoreapp3.0\ProblemB.runtimeconfig.dev.json
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ProblemB\ProblemB\bin\Release\netcoreapp3.0\ProblemB.dll
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ProblemB\ProblemB\bin\Release\netcoreapp3.0\ProblemB.pdb
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ProblemB\ProblemB\obj\Release\netcoreapp3.0\ProblemB.csprojAssemblyReference.cache
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ProblemB\ProblemB\obj\Release\netcoreapp3.0\ProblemB.AssemblyInfoInputs.cache
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ProblemB\ProblemB\obj\Release\netcoreapp3.0\ProblemB.AssemblyInfo.cs
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ProblemB\ProblemB\obj\Release\netcoreapp3.0\ProblemB.dll
+C:\Users\jakub.jadwiszczak\Documents\GitHub\AiSD\ProblemB\ProblemB\obj\Release\netcoreapp3.0\ProblemB.pdb

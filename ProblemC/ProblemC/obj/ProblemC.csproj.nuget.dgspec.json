@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kuba\\Documents\\GitHub\\AiSD\\ProblemC\\ProblemC\\ProblemC.csproj": {}
+    "C:\\Users\\jakub.jadwiszczak\\Documents\\GitHub\\AiSD\\ProblemC\\ProblemC\\ProblemC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kuba\\Documents\\GitHub\\AiSD\\ProblemC\\ProblemC\\ProblemC.csproj": {
+    "C:\\Users\\jakub.jadwiszczak\\Documents\\GitHub\\AiSD\\ProblemC\\ProblemC\\ProblemC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kuba\\Documents\\GitHub\\AiSD\\ProblemC\\ProblemC\\ProblemC.csproj",
+        "projectUniqueName": "C:\\Users\\jakub.jadwiszczak\\Documents\\GitHub\\AiSD\\ProblemC\\ProblemC\\ProblemC.csproj",
         "projectName": "ProblemC",
-        "projectPath": "C:\\Users\\Kuba\\Documents\\GitHub\\AiSD\\ProblemC\\ProblemC\\ProblemC.csproj",
-        "packagesPath": "C:\\Users\\Kuba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kuba\\Documents\\GitHub\\AiSD\\ProblemC\\ProblemC\\obj\\",
+        "projectPath": "C:\\Users\\jakub.jadwiszczak\\Documents\\GitHub\\AiSD\\ProblemC\\ProblemC\\ProblemC.csproj",
+        "packagesPath": "C:\\Users\\jakub.jadwiszczak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jakub.jadwiszczak\\Documents\\GitHub\\AiSD\\ProblemC\\ProblemC\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Kuba\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\jakub.jadwiszczak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
