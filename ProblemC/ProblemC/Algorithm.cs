@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
+/*
+ * Algorytm obliczjący najkrótszą drogę dla 1 skoczka.
+ */
+
 namespace ProblemC
 {
     class Algorithm
@@ -15,6 +19,10 @@ namespace ProblemC
             this.endPoint = endPoint;
         }
 
+
+        /*
+         * W przypadku, gdy skoczek znajduje się w odległości Ymax<=3 i Xmax<=3 to mamy skończoną liczbę rozwiązań.
+         */
         private int CloseJumps(int distX, int distY)
         {
             int dist2 = (int)(Math.Pow(distX, 2.0) + Math.Pow(distY, 2.0));
@@ -38,6 +46,9 @@ namespace ProblemC
             else return 0;
         }
 
+        /*
+         * Krok, jeśli po głównej osi kroku przybliżamy się o 2, po drugiej albo zmniejszamy dystans o 1, albo jeśli dystans = 0 to oddalamy się o 1.
+         */
         private Point Step(int distA, int distB)
         {
             int dist1 = distA - 2;
@@ -53,6 +64,14 @@ namespace ProblemC
             return distAB;
         }
 
+
+        /*
+         * Główny algorytm.
+         * Obliczmamy dystans po x i po y.
+         * Jeśli nie znajdujemy się w zakresie: Ymax<=3 i Xmax<=3, to wykonujemy kroki. Jeśli dystans po x>2 to po głównej osi x, jeśli nie to jeśli dystans po y>2 to po głównej osi y.
+         * Gdy Ymax<=3 i Xmax<=3 to korzystamy z CloseJumps().
+         * Zwracamy minimalną liczbę kroków.
+         */
         public int JumpsAlgorithm()
         {
             int jumps = 0;

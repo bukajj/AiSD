@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
+/*
+ * Główna klasa algorytmu, której zadaniem jest znalezienie maksymalnej ilości punktów współliniowych.
+ */
+
 namespace ProblemB
 {
     internal class Algorithm
@@ -13,6 +17,10 @@ namespace ProblemB
         {
             this.Points = Points;
         }
+
+        /*
+         * Wszystkie punkty łączone są w pary i obliczane są proste łączące punkty w parach.
+         */
         private void setPairs()
         {
             if (Points.Length > 1)
@@ -30,6 +38,12 @@ namespace ProblemB
                 }
             }
         }
+
+        /*
+         * Metoda obliczająca liczbę punktów współliniowych dla danej funkcji. 
+         * Przechodzi po liście do końca i zlicza, jeśli było wystąpienie danej funkcji wcześniej, to zostało to już zliczone, więc nie ma sensu liczyć ponownie.
+         * Iteracja po liście Par wykonywana jest tylko wtedy, gdy jest więcej niż 1 para.
+         */
         private void iterationsCount()
         {
             if (Points.Length > 1)
@@ -49,11 +63,12 @@ namespace ProblemB
                 }
             }
         }
-        internal int maxValue()
-        {
-            setPairs();
-            iterationsCount();
 
+        /*
+         * Sprawdzenie maksymalnej ilości punktów współliniowych poprzez użycie metody iterationsCount(), metoda jest używana, tylko, gdy mamy więcej niż 2 punkty.
+         */
+        internal int maxValue()
+        {       
             if (Points.Length == 0)
             {
                 return 0;
@@ -68,6 +83,8 @@ namespace ProblemB
             }
             else
             {
+                setPairs();
+                iterationsCount();
                 int max = Iterations[0];
                 for (int i=1; i<Iterations.Length; i++)
                 {

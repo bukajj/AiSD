@@ -1,5 +1,9 @@
 ﻿using System;
 
+/*
+ * Wykonanie programu zgodnie z wymaganiami.
+ */
+
 namespace ProblemB
 {
     class Program

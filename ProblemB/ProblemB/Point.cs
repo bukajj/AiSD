@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
+/*
+ * Klasa pojedynczego punktu.
+ */
+
 namespace ProblemB
 {
     internal class Point

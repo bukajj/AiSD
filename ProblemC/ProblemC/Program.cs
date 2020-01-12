@@ -1,5 +1,9 @@
 ﻿using System;
 
+/*
+ * Klasa wykonująca program, zgodnie z założeniami.
+ */
+
 namespace ProblemC
 {
     class Program
@@ -10,9 +14,9 @@ namespace ProblemC
 
             for (int testCounter = 0; testCounter<tests; testCounter++)
             {
-                int counter = 0;
                 int jumpers = Convert.ToInt32(Console.ReadLine());
-                Point[,] points = new Point[2, jumpers];
+                Point[] starts = new Point[jumpers];
+                Point[] ends = new Point[jumpers];
                 for (int i = 0; i < jumpers; i++)
                 {
                     int[] point_args = new int[2];
@@ -23,8 +27,9 @@ namespace ProblemC
                     }
 
                     Point point = new Point(point_args[0], point_args[1]);
-                    points[0, i] = point;
+                    starts[i] = point;
                 }
+
                 for (int i = 0; i < jumpers; i++)
                 {
                     int[] point_args = new int[2];
@@ -35,14 +40,12 @@ namespace ProblemC
                     }
 
                     Point point = new Point(point_args[0], point_args[1]);
-                    points[1, i] = point;
+                    ends[i] = point;
                 }
-                for(int i=0; i<jumpers; i++)
-                {
-                    Algorithm algorithm = new Algorithm(points[0, i], points[1, i]);
-                    counter += algorithm.JumpsAlgorithm();
-                }
-                Console.WriteLine(counter.ToString());
+
+                MultipleAlgotithms multipleAlgotithms = new MultipleAlgotithms(starts, ends);  
+
+                Console.WriteLine(multipleAlgotithms.algorithm());
             }
         }
     }
