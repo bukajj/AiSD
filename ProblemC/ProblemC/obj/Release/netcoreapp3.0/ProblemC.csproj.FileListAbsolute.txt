@@ -1,0 +1,11 @@
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemC\ProblemC\bin\Release\netcoreapp3.0\ProblemC.exe
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemC\ProblemC\bin\Release\netcoreapp3.0\ProblemC.deps.json
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemC\ProblemC\bin\Release\netcoreapp3.0\ProblemC.runtimeconfig.json
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemC\ProblemC\bin\Release\netcoreapp3.0\ProblemC.runtimeconfig.dev.json
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemC\ProblemC\bin\Release\netcoreapp3.0\ProblemC.dll
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemC\ProblemC\bin\Release\netcoreapp3.0\ProblemC.pdb
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemC\ProblemC\obj\Release\netcoreapp3.0\ProblemC.csprojAssemblyReference.cache
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemC\ProblemC\obj\Release\netcoreapp3.0\ProblemC.AssemblyInfoInputs.cache
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemC\ProblemC\obj\Release\netcoreapp3.0\ProblemC.AssemblyInfo.cs
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemC\ProblemC\obj\Release\netcoreapp3.0\ProblemC.dll
+C:\Users\Kuba\Documents\GitHub\AiSD\ProblemC\ProblemC\obj\Release\netcoreapp3.0\ProblemC.pdb

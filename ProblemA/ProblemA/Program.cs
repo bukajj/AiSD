@@ -1,6 +1,10 @@
 ﻿using System;
 using System.IO;
 
+/*
+ * Klasa, dzięki której wykonywany jest program. Używane jest standardowe wejście i wyjście, tak jak jest to opisane w wymaganiach.
+ */
+
 namespace ProblemA
 {
     class Program
