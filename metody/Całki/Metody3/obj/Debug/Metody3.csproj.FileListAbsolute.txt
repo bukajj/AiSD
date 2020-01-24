@@ -1,0 +1,12 @@
+C:\Users\Marek\Desktop\Udemy\Metody 3 v2\Metody3\Metody3\bin\Debug\Metody3.exe.config
+C:\Users\Marek\Desktop\Udemy\Metody 3 v2\Metody3\Metody3\bin\Debug\Metody3.exe
+C:\Users\Marek\Desktop\Udemy\Metody 3 v2\Metody3\Metody3\bin\Debug\Metody3.pdb
+C:\Users\Marek\Desktop\Udemy\Metody 3 v2\Metody3\Metody3\obj\Debug\Metody3.csprojAssemblyReference.cache
+C:\Users\Marek\Desktop\Udemy\Metody 3 v2\Metody3\Metody3\obj\Debug\Metody3.exe
+C:\Users\Marek\Desktop\Udemy\Metody 3 v2\Metody3\Metody3\obj\Debug\Metody3.pdb
+C:\Users\jakub.jadwiszczak\Desktop\metody\Całki\Metody3\bin\Debug\Metody3.exe.config
+C:\Users\jakub.jadwiszczak\Desktop\metody\Całki\Metody3\bin\Debug\Metody3.exe
+C:\Users\jakub.jadwiszczak\Desktop\metody\Całki\Metody3\bin\Debug\Metody3.pdb
+C:\Users\jakub.jadwiszczak\Desktop\metody\Całki\Metody3\obj\Debug\Metody3.csprojAssemblyReference.cache
+C:\Users\jakub.jadwiszczak\Desktop\metody\Całki\Metody3\obj\Debug\Metody3.exe
+C:\Users\jakub.jadwiszczak\Desktop\metody\Całki\Metody3\obj\Debug\Metody3.pdb

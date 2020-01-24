@@ -1,0 +1,11 @@
+C:\Users\jakub.jadwiszczak\source\repos\wyznacznik\wyznacznik\bin\Debug\netcoreapp3.0\wyznacznik.exe
+C:\Users\jakub.jadwiszczak\source\repos\wyznacznik\wyznacznik\bin\Debug\netcoreapp3.0\wyznacznik.deps.json
+C:\Users\jakub.jadwiszczak\source\repos\wyznacznik\wyznacznik\bin\Debug\netcoreapp3.0\wyznacznik.runtimeconfig.json
+C:\Users\jakub.jadwiszczak\source\repos\wyznacznik\wyznacznik\bin\Debug\netcoreapp3.0\wyznacznik.runtimeconfig.dev.json
+C:\Users\jakub.jadwiszczak\source\repos\wyznacznik\wyznacznik\bin\Debug\netcoreapp3.0\wyznacznik.dll
+C:\Users\jakub.jadwiszczak\source\repos\wyznacznik\wyznacznik\bin\Debug\netcoreapp3.0\wyznacznik.pdb
+C:\Users\jakub.jadwiszczak\source\repos\wyznacznik\wyznacznik\obj\Debug\netcoreapp3.0\wyznacznik.csprojAssemblyReference.cache
+C:\Users\jakub.jadwiszczak\source\repos\wyznacznik\wyznacznik\obj\Debug\netcoreapp3.0\wyznacznik.AssemblyInfoInputs.cache
+C:\Users\jakub.jadwiszczak\source\repos\wyznacznik\wyznacznik\obj\Debug\netcoreapp3.0\wyznacznik.AssemblyInfo.cs
+C:\Users\jakub.jadwiszczak\source\repos\wyznacznik\wyznacznik\obj\Debug\netcoreapp3.0\wyznacznik.dll
+C:\Users\jakub.jadwiszczak\source\repos\wyznacznik\wyznacznik\obj\Debug\netcoreapp3.0\wyznacznik.pdb
